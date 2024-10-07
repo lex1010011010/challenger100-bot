@@ -1,9 +1,7 @@
-// Подключаем dotenv для загрузки переменных окружения
 import 'dotenv/config';
 import { DataSource } from 'typeorm';
 import { User } from './entities/User';
 
-// Создаем и экспортируем объект DataSource с конфигурацией MySQL
 export const AppDataSource = new DataSource({
     type: 'mysql',
     host: process.env.DB_HOST,

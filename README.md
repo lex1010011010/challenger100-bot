@@ -1,0 +1,1 @@
+to build and start use ```npx tsc && node dist/index.js```
