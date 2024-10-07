@@ -1,0 +1,22 @@
+{
+  "name": "challenger100-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.7.4",
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.20",
+    "typescript": "^5.6.2"
+  }
+}
