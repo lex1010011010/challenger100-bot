@@ -13,6 +13,7 @@
     "@types/node": "^22.7.4",
     "@types/node-telegram-bot-api": "^0.64.7",
     "dotenv": "^16.4.5",
+    "moment-timezone": "^0.5.46",
     "mysql2": "^3.11.3",
     "node-telegram-bot-api": "^0.66.0",
     "reflect-metadata": "^0.2.2",
